@@ -1,2 +1,2 @@
 # Workshops
-Materials prepared for workshops
+Materials prepared for workshops.
